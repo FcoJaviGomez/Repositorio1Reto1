@@ -1,7 +1,4 @@
-function suma(x, y) {
-    let resultado = x + y
-    return resultado;
-}
+
 function resta(x, y) {
     let resultado = x - y;
     return resultado
