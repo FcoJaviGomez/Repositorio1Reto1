@@ -1,5 +1,5 @@
-function suma(x, y) {
-    let resultado = x + y
+function suma(x, y, z) {
+    let resultado = x + y + z
     return resultado;
 }
 function resta(x, y) {
